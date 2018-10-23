@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationFinder</string>
+
+    <string name="google_maps_key">AIzaSyAvCeWGi1-gNxdlxn66Akh6oRfZvZccvmc</string>
+</resources>
