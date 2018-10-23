@@ -14,4 +14,13 @@
         tools:context=".MapActivity"
         android:name="com.google.android.gms.maps.SupportMapFragment" />
 
+
+    <ImageButton
+        android:id="@+id/gpsBtn"
+        android:padding="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_gps_fixed_black_24dp"
+        />
+
 </android.support.constraint.ConstraintLayout>
